@@ -1,0 +1,22 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore node_modules (if you're using Node.js)
+node_modules/
+
+# Ignore build output
+public/
+dist/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Ignore Hugo specific files (if you're using Hugo)
+resources/_gen/
